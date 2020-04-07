@@ -1,0 +1,66 @@
+.container{
+	margin-top:5%;
+	text-align: center;
+}
+
+.card{
+background: #43425D 0% 0% no-repeat padding-box !important;
+}
+
+.col-lg-4 .card-body{
+  color: white;
+}
+
+.vertical{
+  height: 300px;
+  width: 50%; 
+  border-right: 1px solid black;
+}
+
+
+.col-lg-6{
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.header2{
+  font: Medium Italic Italic 48px/36px Lora;
+  letter-spacing: 0px;
+  color: #D62142;
+  margin-top: 6%;
+  margin-bottom: 3%;
+}
+
+.header3{
+  font: Medium Italic Italic 48px/36px Lora;
+  letter-spacing: 0px;
+  color: #D62142;
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+
+
+.dot {
+  padding:8px; 
+  height: 50px;
+  width: 50px;
+  border:1px solid black;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+.col-lg-6 img{
+  margin-right:10%; 
+  text-align: left;
+}
+.fee{
+  width: 69px;
+  height: 70px;
+}
+.header2 img{
+  top: 795px;
+  left: 56px;
+  width: 82px;
+  height: 82px;
+}
+
